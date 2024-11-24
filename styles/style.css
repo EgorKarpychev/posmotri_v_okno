@@ -93,6 +93,13 @@ video {
   object-position: center;
 }
 
+.content__video-card-description-container {
+  display: block;
+  position: relative;
+  width: 100%;
+  max-width: 300px;
+}
+
 .content__video-card-title {
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -117,6 +124,8 @@ video {
   font-weight: 400;
   line-height: 16.2px;
 }
+
+
 
 .content__video-card-thumbnail {
   inline-size: 194px;
