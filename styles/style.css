@@ -97,7 +97,7 @@ video {
   display: block;
   position: relative;
   width: 100%;
-  max-width: 300px;
+  max-width: 200px;
 }
 
 .content__video-card-title {
